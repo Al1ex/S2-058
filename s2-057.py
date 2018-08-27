@@ -37,5 +37,4 @@ if __name__ == '__main__':
     if not url:
         print 'please enter url'
     else:
-    #url = 'http://10.10.10.29:8080/struts2-showcase/actionChain1.action'
         check_s2_057(url)
